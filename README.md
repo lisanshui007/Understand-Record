@@ -1,4 +1,4 @@
-# -
+# 对于理解的记录,这是轮子的说明书.
 
 <details>
 <summary>markdown语法速查</summary>
